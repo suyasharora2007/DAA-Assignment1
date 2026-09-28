@@ -41,3 +41,11 @@ The PNG files are written to `plots/`.
 - release tag: `v1.0`
 
 Meaningful commits are used for each feature and the final release is merged into `main`.
+
+## Current benchmark status
+
+The included `results.csv` was generated from the completed benchmark using the required four sizes, three input types and five runs per case. The included `plots/` directory contains the time, recursion-depth and comparison-ratio figures used in the report.
+
+## Release
+
+The repository history contains the required feature branches and the final release tag `v1.0`.
